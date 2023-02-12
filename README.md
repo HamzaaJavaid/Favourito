@@ -1,16 +1,15 @@
 # favorito_app
 
-A new Flutter project.
+Flutter Application.
+An demonstrative hybrid application which allow
+User to add their favorite products in 
+favorite cart. It's additional feature include 
+dark mode and light mode.
+
+Additionally it uses provider state management,
+Which is considered as flutter favorite on 
+Developer publication.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230212-225526~2](https://user-images.githubusercontent.com/115164085/218332662-cab949f9-d9c2-4fe4-a4be-996827b3c2ae.png)
